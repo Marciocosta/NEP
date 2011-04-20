@@ -1,0 +1,98 @@
+
+
+
+/* CSS RESET */
+
+* {  	
+	padding: 0; 
+	margin: 0;
+	font-family: ;
+	font-size: ;
+	color: ;
+}
+
+a { 
+	text-decoration: none; 
+}
+
+	a:hover { 
+		text-decoration: underline; 
+	}
+
+	a img { 
+		border: 0;
+	}
+	
+ul, ol { 
+	list-style: none;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+	font-size: 100%; 
+}
+
+addreess, strong, p {
+	font-style: normal;
+	color: inherit;
+	font-size: inherit;
+}
+
+fieldset {
+	border-style: solid;
+	border-width: 1px;
+}
+
+input {
+	font-family: ;
+	font-size: ;
+}
+
+textarea { 
+	overflow: auto; 
+	font-family: ;
+	font-size: ;
+}
+
+
+
+/* CLASSES UTEIS */
+
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+
+.txtIndent {
+	text-indent: -999px;
+	overflow: hidden;
+	display: block;
+}
+
+	input.txtIndent {
+		cursor: pointer;
+		*text-transform: uppercase;
+	}
+
+.dn {
+	display: none;
+}
+
+
+div.clear {
+    background: none repeat scroll 0 0 transparent;
+    border: 0 none;
+    clear: both;
+    display: block;
+    float: none;
+    font-size: 0;
+    height: 0;
+    list-style: none outside none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    visibility: hidden;
+    width: 0;
+}

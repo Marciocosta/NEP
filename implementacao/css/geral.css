@@ -1,0 +1,313 @@
+body { 
+	background:#FFD600 ; 
+}
+
+.geral { 
+	background: #fff
+	
+}
+
+	.topo{
+		background: url(../images/bg/bgtopo.gif) repeat-x;
+		width: 100%;
+		height: 579px;
+	}
+	
+		.topo_content {
+			background: url(../images/bg/bgtopocontent.gif) 0 0 no-repeat;
+			width: 940px;
+			height: 214px;
+			margin: 0 auto;
+			padding: 0 10px 0 10px;
+			
+		}
+		
+		.topo_content h1 {
+			width: 160px;
+			height: 114px;
+			float: left;
+			margin: 54px 0 0 0px;
+		}
+		
+		.topo_content h1 a {
+			background: url(../images/layout/h1.png) 0 0 no-repeat;
+			width: 160px;
+			height: 114px;
+			float: left;
+		}
+		
+		
+		.superbanner {
+			width: 929px;
+			height:354px;
+			border: 6px #a78f10 solid;
+			margin: 0 auto;
+			position: relative;
+			
+			
+		}
+		
+			.superbanner ul.navbox {
+				width: 151px;
+				height: 100px;
+				position: absolute;
+				top: 305px;
+				right: 0px;
+				bottom: -51px;
+				left: 802px;
+				
+			}
+			
+				.superbanner ul.navbox li.previous {
+					width: 66px;
+					height: 77px;
+					position: absolute;
+    				top: 0px;
+					right: 86px;
+					bottom: 23px;
+					left: -1px;
+	
+				}
+			
+					.superbanner ul.navbox li.previous a {
+						background: url(../images/botoes/previous.png) 0 0 no-repeat;
+						width: 66px;
+						height: 77px;
+					
+					}	
+					
+				.superbanner ul.navbox li.next {
+					width: 66px;
+					height: 77px;
+					position: absolute;
+					top: -9px;
+					right: 14px;
+					bottom: 32px;
+					left: 63px;
+
+				}
+		
+				.superbanner ul.navbox li.next a {
+					background: url(../images/botoes/foward.png) 0 0 no-repeat;
+					width: 76px;
+					height: 88px;
+				
+				}	
+				
+		.lastjob {
+			background: url(../images/bg/bglastjob.gif) 0 0 no-repeat;
+			width: 940px;
+			height: 176px;
+			margin: 0 auto;
+				
+		}
+		
+			.lastjob ul {
+				width: 940px;
+				height: 176px;
+				margin: 0 auto;
+				
+			}
+			
+				.lastjob ul li {
+					width: 940px;
+					height: 176px;
+					margin: 0 auto;
+					
+				}
+	
+	.corpo{
+		background: url(../images/layout/bgcorpo.gif) repeat-x;
+		width: 100%;
+		height: 228px;
+		
+	}
+	
+		.corpo_content {
+			background: url(../images/layout/bgcorpo_content.gif) 355px 0 no-repeat;
+			width: 940px;
+			height: 228px;
+			margin: 0 auto;
+			padding: 0 10px 0 10px;
+			
+		}
+		
+			.corpo_content .content_right {
+				width: 460px;
+				height: 161px;
+				float: left;
+				margin: 42px 0 0 0px;
+				
+			}
+			
+				.corpo_content .content_right h2.tituloright {
+					background: url(../images/layout/h2right.gif) 0 0 no-repeat;
+					width: 460px;
+					height: 40px;	
+					
+				}
+				
+				.corpo_content .content_right p {
+					font-family: Tahoma, Geneva, sans-serif;
+					font-weight: bold;
+					font-size: 12px;
+					color: #656565;
+					margin: 7px 0 0 0px;
+					text-align: justify;
+					
+				}
+				
+				.corpo_content .content_right a {
+					background: url(../images/botoes/saibamais.gif) 0 0 no-repeat;
+					width: 74px;
+					height: 27px;
+					float: right;
+					margin: 7px 0 0 0px;
+					
+				}
+				
+			.corpo_content .content_left {
+				width: 380px;
+				height: 141px;
+				float: left;	
+				margin: 42px 0 0 100px;
+				
+			}
+			
+				.corpo_content .content_left h2.tituloleft {
+					background: url(../images/layout/h2left.gif) 0 0 no-repeat;
+					width: 380px;
+					height: 40px;	
+					
+				}
+				
+				.corpo_content .content_left ul {
+					width: 380px;
+					height: 80px;	
+					float: left;
+					margin: 20px 0 0 0px;
+					
+				}
+				
+					.corpo_content .content_left ul li {
+						width: 80px;
+						height: 80px;	
+						float: left;
+						margin: 0 15px 0 0px;
+						
+					}
+	
+	.rodape{
+		background: url(../images/bg/bgrodape.gif) repeat-x;
+		width: 100%;
+		height: 166px;
+	
+	}
+	
+		.rodape_content {
+			width: 940px;
+			height: 166px;
+			margin: 0 auto;
+			padding: 50px 10px 0 10px;
+			
+		}
+		
+		
+	.selo {
+		width: 104px;
+		height: 78px;
+		float: left;	
+		
+	}
+	
+		.selo a {
+			background: url(../images/layout/assinatura.png) 0 0 no-repeat;
+			width: 104px;
+			height: 78px;
+			float: left;	
+			
+		}
+		
+		
+		.dados_contato {
+			width: 248px;
+			height: 70px;
+			float:left;	
+			margin: 0 0 0 10px;
+			
+		}
+		
+		.rodape_content h2.titulorodape {
+			width: 248px;
+			height: 25px;
+			font-family: Tahoma, Geneva, sans-serif;
+			font-size: 18px;
+			color: #a78f10;
+			font-weight: bold;
+			float: left;
+			margin: 0 0 5px 0px;
+			
+		}
+		
+		.rodape_content address {
+			float: left;
+			font-family: Tahoma, Geneva, sans-serif;
+			font-size: 14px;
+			color: #a78f10;
+			font-weight: normal;
+			font-style: normal;
+			
+		}
+		
+	.contacticon {
+		background: url(../images/botoes/contato.gif) 0 0 no-repeat;
+		width: 240px;
+		height: 67px;
+		float: left;	
+		margin:  0 0 0 85px;
+		
+	}
+		
+	.social {
+		width: 129px;
+		height: 41px;
+		float: right;
+		margin: 25px 0 0 0px;
+		
+	}
+	
+		.social ul {
+			width: 129px;
+			height: 41px;	
+		
+		}
+		
+			.social ul li {
+				width: 59px;
+				height: 41px;	
+				float: left;
+			
+			}
+				.social ul li.tweeticon a {
+					background: url(../images/botoes/twitter.gif) 0 0 no-repeat;
+					width: 59px;
+					height: 36px;
+					
+				}
+				
+				.social ul li.facebookicon a {
+					background: url(../images/botoes/facebook.gif) 0 0 no-repeat;
+					width: 59px;
+					height: 36px;
+					
+				}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
